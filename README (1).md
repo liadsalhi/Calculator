@@ -1,7 +1,7 @@
 # Calculator
 
-A simple calculator app for Android, built with **Kotlin** and **Jetpack Compose**.
-The project follows the **MVVM** pattern and is split into clear layers, so each part is easy to understand, test and change.
+A simple calculator app for Android, built with Kotlin and Jetpack Compose.
+The project follows the MVVM pattern and is split into clear layers, so each part is easy to understand, test and change.
 
 ## Features
 
